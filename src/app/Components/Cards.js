@@ -21,7 +21,7 @@ export const Cards = () => {
               </div>
             </div>
             <div>
-              <img src="/illustration1.png"></img>
+              <img src="/Illustration1.png"></img>
             </div>
           </div>
           <div className="flex border rounded-[14px] mt-10 mb-10 gap-17.25 bg-lime-300 px-12.5 py-12.5">
